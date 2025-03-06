@@ -18,7 +18,7 @@ Bu proje aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 
 ## 🚀 Geliştirme
 - Yeni özellikler eklemek veya arka plan rengini değiştirmek için `style.css` dosyasını düzenleyebilirsiniz.
-- 
+
 ## 📜 Lisans
 Bu proje **MIT** lisansı ile lisanslanmıştır.
 
