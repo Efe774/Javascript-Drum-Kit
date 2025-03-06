@@ -1,0 +1,103 @@
+body { /* Body still ayarları */
+    text-align: center;
+    background-image: url(/kit/konser.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 { /* Başlık still ayari */
+    font-size: 5rem;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 3px 0 #f11de7;
+}
+
+footer { /* footer stil ayarı */
+   
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.set{ /* Basit boşluk */
+    margin: 10% auto;
+}
+
+.drum { /* drum still ayarları */
+    outline: none;
+    border: 10px solid black;
+    font-size: 5rem;
+    line-height: 2;
+    font-weight: 900;
+    color: #da0463;
+    text-shadow: 3px 0 rgb(10, 10, 10);
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    background-color: white;
+}
+
+.jerry { /* jery stil ayarları */
+    border: 10 solid black;
+    outline: none;
+    font-size: 3rem;
+    background-color: white;
+    border-radius: 20px;
+    background-image: url(/kit/jerry.jpg);
+    background-repeat: round;
+    background-size: contain;
+    text-shadow: 3px 0 rgb(0, 217, 255);
+}
+
+.bonus { /* bonus kısım */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pressed { /* Basit animasyon */
+    box-shadow: 0 3px 4px 0 black;
+    opacity: 1;
+}
+
+/*tuş resimleri*/
+.w {
+    background-image: url("/kit/tom1.png");
+}
+
+.a {
+    background-image: url("/kit/tom2.png");
+}
+
+.s {
+    background-image: url("/kit/tom3.png");
+}
+
+.d {
+    background-image: url("/kit/tom4.png");
+}
+
+.j {
+    background-image: url("/kit/snare.png");
+}
+
+.k {
+    background-image: url("/kit/crash.png");
+}
+
+.l {
+    background-image: url("/kit/kick.png");
+}
+
+#hiddenButton {
+    display: none; /* Başlangıçta gizli */
+}
