@@ -1,6 +1,6 @@
 body { /* Body still ayarları */
     text-align: center;
-    background-image: url(/kit/konser.webp);
+    background-image: url(./kit/konser.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -51,7 +51,7 @@ footer { /* footer stil ayarı */
     font-size: 3rem;
     background-color: white;
     border-radius: 20px;
-    background-image: url(/kit/jerry.jpg);
+    background-image: url(./kit/jerry.jpg);
     background-repeat: round;
     background-size: contain;
     text-shadow: 3px 0 rgb(0, 217, 255);
@@ -71,31 +71,31 @@ footer { /* footer stil ayarı */
 
 /*tuş resimleri*/
 .w {
-    background-image: url("/kit/tom1.png");
+    background-image: url("./kit/tom1.png");
 }
 
 .a {
-    background-image: url("/kit/tom2.png");
+    background-image: url("./kit/tom2.png");
 }
 
 .s {
-    background-image: url("/kit/tom3.png");
+    background-image: url("./kit/tom3.png");
 }
 
 .d {
-    background-image: url("/kit/tom4.png");
+    background-image: url("./kit/tom4.png");
 }
 
 .j {
-    background-image: url("/kit/snare.png");
+    background-image: url("./kit/snare.png");
 }
 
 .k {
-    background-image: url("/kit/crash.png");
+    background-image: url("./kit/crash.png");
 }
 
 .l {
-    background-image: url("/kit/kick.png");
+    background-image: url("./kit/kick.png");
 }
 
 #hiddenButton {
