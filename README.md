@@ -1,7 +1,9 @@
+## ÖNEMLİ NOT
+ JavaScripti ilk defa kullandığım ve çalıştrabildiğim için bonus bir kısım ekledim. SADECE SÖYLEMEK İSTEDİMMMMM.
+
 # Javascript Drum Kit Sitesi
 
-Bu proje, JavaScript kullanarak Drum Kit sitesi oluşturulmuştur. 
-ÖNEMLİ NOT: JavaScripti ilk defa kullandığım ve çalıştrabildiğim için bonus bir kısım ekledim. BENİM İÇİN MÜKKEMMEL OLDU.
+Bu proje, JavaScript kullanarak Drum Kit sitesi oluşturulmuştur.
 
 ## Özellikler
 - ⏳ Gerçek zamanlı tuş ve ses alımı
